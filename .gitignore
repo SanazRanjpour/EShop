@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EShop/obj
+/.vs
+/EShop.Application/obj
+/EShop.Domain/obj
+/EShop.Infra-Data/obj
+/EShop.IOC/obj
+/ESop.MVC/obj
