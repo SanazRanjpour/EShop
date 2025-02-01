@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EShop.Infra-Data/1.0.0": {
+        "dependencies": {
+          "EShop.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EShop.Infra-Data.dll": {}
+        }
+      },
+      "EShop.Domain/1.0.0": {
+        "runtime": {
+          "EShop.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EShop.Infra-Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EShop.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
