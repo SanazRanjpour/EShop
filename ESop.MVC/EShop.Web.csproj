@@ -7,13 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\assets\css\bootstrap.rtl.min.css" />
-    <None Include="wwwroot\assets\css\style.css" />
-    <None Include="wwwroot\assets\fonts\Nahid-FD.eot" />
-    <None Include="wwwroot\assets\fonts\Nahid-FD.ttf" />
-    <None Include="wwwroot\assets\fonts\Nahid-FD.woff" />
-    <None Include="wwwroot\assets\fonts\Nahid-FD.woff2" />
-    <None Include="wwwroot\assets\js\bootstrap.bundle.min.js" />
     <None Include="wwwroot\theme-assets\css\custom.css" />
     <None Include="wwwroot\theme-assets\css\custom.css.map" />
     <None Include="wwwroot\theme-assets\css\dependencies.css" />
